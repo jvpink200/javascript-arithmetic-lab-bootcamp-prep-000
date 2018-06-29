@@ -20,6 +20,14 @@ function divide(a,b){
   return result;
 }
 
-functin inc(n){
+function inc(n){
   return n ++;
+}
+
+function dec(n){
+  return n -=1;
+}
+
+function makeInt(n){
+  return parseInt(n,10);
 }
