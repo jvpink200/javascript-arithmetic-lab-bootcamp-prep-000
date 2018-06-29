@@ -35,3 +35,9 @@ function makeInt(n){
 function preserveDecimal(n){
   return parseFloat(n);
 }
+
+function log(s){
+  var s = 'Mr.X';
+  console.log(s);
+}
+log('Hello!');
