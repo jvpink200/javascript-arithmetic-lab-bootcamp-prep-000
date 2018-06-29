@@ -21,7 +21,5 @@ function divide(a,b){
 }
 
 functin inc(n){
-  return n + 1;
+  return n ++;
 }
-
-
