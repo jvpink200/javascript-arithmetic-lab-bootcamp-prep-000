@@ -20,4 +20,8 @@ function divide(a,b){
   return result;
 }
 
+functin inc(n){
+  return n + 1;
+}
+
 
